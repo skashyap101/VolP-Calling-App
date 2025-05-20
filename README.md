@@ -29,19 +29,6 @@ Visual Studio (2022 or newer recommended)
 
 .NET Framework (4.7.2 or higher)
 
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/voip-calling-app.git
-Open the solution in Visual Studio:
-
-Copy code
-VoIPCallingApp.sln
-Build and run the application:
-
-Press F5 or click Start.
 
 🎮 How to Use
 Launch the application.
